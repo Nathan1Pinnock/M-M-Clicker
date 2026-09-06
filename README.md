@@ -4,4 +4,5 @@ A cookie-clicker style game in plain HTML and JavaScript. Click for M&M's, then 
 
 Play it: https://nathan1pinnock.github.io/M-M-Clicker/
 
-No build step — open `index.html` in a browser.
+No build step
+open `index.html` in a browser.
